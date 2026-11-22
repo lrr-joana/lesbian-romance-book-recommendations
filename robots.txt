@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lrr-joana.github.io/lesbian-romance-book-recommendations/sitemap.xml
